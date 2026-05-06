@@ -1,0 +1,6 @@
+{
+  "name": "SpinDynamics: Quantum Simulation",
+  "description": "An interactive simulation of spin-spin interactions, demonstrating ferromagnetic and antiferromagnetic alignment principles using the Ising model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
